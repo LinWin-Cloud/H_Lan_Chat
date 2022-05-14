@@ -1,13 +1,15 @@
-#H_Lan_Chat支持内网穿透的网络共享系统
-介绍
-设计基于windows内置服务IIS运行，无需客户端，直接可通过浏览器访问
+#H_Lan_Chat is a open resources tools for lan.
+You can use it very easy and view other people's computer share file
+or you also can share your file in the lan .
 
-软件架构
-纯前端开发，使用HTML，css，js
+H_Lan_CHat is use HTML,CSS and Javascript to make.You also can revise
+the resources code and add some new contents in this tools.
 
-安装教程
-从gitee下载源代码，源代码不丢失
-在Windows电脑内，打开 控制面板 》程序与功能 》打开或关闭Windows功能 》选择关于IIS的各项服务 (配置IIS可自行百度,这里仅做参考)
-将端口与源代码文件夹绑定，访问该端口，便可运行网页提供工作 可将 共享文件 存放进入 局域网数据库 进行共享 可使用第三方内网穿透工具进行内网穿透
-参与贡献
-LinWinCloud
+You do not need to install a client . There is a client and server in 
+H_Lan_Chat.Users can visit the page in the webbrowser.,it is very easy.
+
+H_Lan_chat design use Windows' IIS server to running.You can search how
+to use the IIS in the internet.
+
+It also sustain Intranet penetration.You can use a domain to share your
+information,file,flond and so on the internet.
