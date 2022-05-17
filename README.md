@@ -13,3 +13,6 @@ to use the IIS in the internet.
 
 It also sustain Intranet penetration.You can use a domain to share your
 information,file,flond and so on the internet.
+
+Worry:H_Lan_Chat 's language is chinese.
+AUther:LinWinCloud
