@@ -18,5 +18,10 @@ to use the IIS in the internet.
 It also sustain Intranet penetration.You can use a domain to share your
 information,file,flond and so on the internet.
 
+#### The vistion 
+server:1.0 for windows
+client:1.0 for linux,windows,macos,android,ios...
+design server software:windows internet information server(IIS) 
+
 Worry:H_Lan_Chat 's language is chinese.
 AUther:LinWinCloud
