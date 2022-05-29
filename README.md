@@ -24,9 +24,13 @@ H_Lan_Chat.Users can visit the page in the webbrowser.,it is very easy.
 H_Lan_chat design use Windows' IIS server to running.You can search how
 to use the IIS in the internet.
 
+H_Lan_CHat设计用于Windows IIS服务运行。你能够去因特网上搜索如何使用IIS。
+
 #### We sustain Intranet penetration
 It also sustain Intranet penetration.You can use a domain to share your
 information,file,flond and so on the internet.
+
+它同样支持内网穿透。你能够使用一个域名来共享你的信息，文件等等在互联网上。
 
 #### The vistion 
 server:1.0 for windows
