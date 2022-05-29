@@ -6,13 +6,19 @@ H_Lan_CHat只提供中文版本，该软件在创作之初是商业软件，不�
 You can use it very easy and view other people's computer share file
 or you also can share your file in the lan .
 
+你能够非常轻松使用并且查看其他人的共享文件或者同样可以共享你的文件在局域网内。
+
 #### Language
 H_Lan_CHat is use HTML,CSS and Javascript to make.You also can revise
 the resources code and add some new contents in this tools.
 
+H_Lan_CHat使用HTML,CSS,JS制作。你同样能够修改源代码并且添加新的内容在这个工具内。
+
 #### You do not install a client
 You do not need to install a client . There is a client and server in 
 H_Lan_Chat.Users can visit the page in the webbrowser.,it is very easy.
+
+你不需要安装一个客户端。里面包含了一个客户端和服务端。用户访问在浏览器内访问页面，非常简单。
 
 #### H_Lan_CHat can run in the windows
 H_Lan_chat design use Windows' IIS server to running.You can search how
