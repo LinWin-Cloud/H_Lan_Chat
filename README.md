@@ -2,6 +2,9 @@
 H_Lan_CHat只提供中文版本，该软件在创作之初是商业软件，不过现在H_Lan_Chat已经完全的开源了，
 不需要再为H_Lan_Chat支付本来的费用，允许修改。
 
+#  更新日志
+1. v1.0 发布于2021.*.*
+
 #### H_Lan_Chat is a open resources tools for lan.
 You can use it very easy and view other people's computer share file
 or you also can share your file in the lan .
