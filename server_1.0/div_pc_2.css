@@ -1,0 +1,15 @@
+.div1{
+    width:340px;
+    height:60px;
+    border:rgb(215, 226, 250);
+    background-color:rgb(215, 231, 250);
+    font-size:35px;
+    color:black
+}
+
+.div2{
+    width:400px;
+    height:100px;
+    border-color:rgb(148, 225, 255);
+    background-color:rgb(148, 221, 255);
+}

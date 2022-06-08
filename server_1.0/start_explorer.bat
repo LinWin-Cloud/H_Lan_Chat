@@ -1,0 +1,2 @@
+start explorer.exe
+exit
