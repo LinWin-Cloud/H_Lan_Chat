@@ -1,0 +1,7 @@
+﻿软件服务端支持平台：Windows
+软件客户端支持平台：windows，iOS，macOS，Linux，Android，鸿蒙
+页面编写时间：2021.12.2
+依靠平台：windows intermgr和 浏览器
+服务端版本：server_1.0
+客户端版本：client_1.0
+数据库版本：datebase_code_1.0
