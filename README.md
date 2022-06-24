@@ -3,7 +3,14 @@ H_Lan_CHat只提供中文版本，该软件在创作之初是商业软件，不�
 不需要再为H_Lan_Chat支付本来的费用，允许修改。
 
 #  更新日志
-<li><a href='https://github.com/LinWin-Cloud/H_Lan_Chat/blob/main/endtion.md'>更新日志</a></li>
+1. v1.0   the frist Endtion
+2. v1.1   update some config file
+3. v1.2   update some resources code
+4. v1.3   update the README
+5. v1.4   update the resources code and config
+6. v1.5   修复并更新源代码
+7. v1.6   更新配置和源代码
+
 
 #### H_Lan_Chat is a open resources tools for lan.
 You can use it very easy and view other people's computer share file
